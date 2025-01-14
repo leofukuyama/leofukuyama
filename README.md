@@ -129,5 +129,9 @@ Me chamo Leonardo, sou estudante em **Engenharia de Software** na UniSenaiPR câ
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/leofukuyama?&theme=nord&ext=heatmap)
