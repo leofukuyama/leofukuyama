@@ -3,8 +3,6 @@
 **`Aspirante a Desenvolvedor FullStack e CiberSegurança`**
 
 Me chamo Leonardo, sou estudante em **Engenharia de Software** na UniSenaiPR câmpus Londrina e meu objetio é aprender e crescer no campo de **Desenvolvimento FullStack** e **CiberSegurança**. 
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/leofukuyama-44b511266/))
 <p align="left">
     <a href="https://github.com/leofukuyama?tab=repositories&sort=stargazers">
         <img 
@@ -21,6 +19,8 @@ Me chamo Leonardo, sou estudante em **Engenharia de Software** na UniSenaiPR câ
         />
     </a>
 </p>
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/leofukuyama-44b511266/))
 
 ---
 
