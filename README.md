@@ -5,6 +5,13 @@
 Me chamo Leonardo, sou estudante em **Engenharia de Software** na UniSenaiPR câmpus Londrina e meu objetio é aprender e crescer no campo de **Desenvolvimento FullStack** e **CiberSegurança**. 
 
 <p align="left">
+    <a href="https://www.linkedin.com/in/leofukuyama/">
+        <img 
+            alt="LinkedIn" 
+            title="Vamos conectar" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>     
     <a href="https://github.com/leofukuyama?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -18,17 +25,8 @@ Me chamo Leonardo, sou estudante em **Engenharia de Software** na UniSenaiPR câ
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/leofukuyama?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
-    </a>
-    <a href="https://www.linkedin.com/in/leofukuyama/">
-        <img 
-            alt="LinkedIn" 
-            title="Vamos conectar" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>        
+    </a>   
 </p>
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/leofukuyama-44b511266/))
 
 ---
 
