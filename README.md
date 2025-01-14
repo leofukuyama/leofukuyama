@@ -120,14 +120,3 @@ Me chamo Leonardo, sou estudante em **Engenharia de Software** na UniSenaiPR câ
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofukuyama&theme=aura_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-         
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/leofukuyama?&theme=nord&ext=heatmap)
