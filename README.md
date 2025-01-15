@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Leonardo Fukuyama
+# 👨‍💻 Leonardo Fukuyama
 
 **`Aspirante a Desenvolvedor FullStack e CiberSegurança`**
 
