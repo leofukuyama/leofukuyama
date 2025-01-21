@@ -12,13 +12,6 @@ Me chamo Leonardo, sou estudante em **Engenharia de Software** na UniSenaiPR câ
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>     
-    <a href="https://github.com/leofukuyama?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/leofukuyama?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
     <a href="https://github.com/leofukuyama?tab=followers">
         <img 
             alt="Seguidores" 
