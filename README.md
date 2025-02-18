@@ -108,13 +108,19 @@ Me chamo Leonardo, sou estudante em **Engenharia de Software** na UniSenaiPR câ
     <img 
         alt="GitHub Streak" 
         height="170" 
-        src="https://streak-stats.demolab.com?user=leofukuyama&theme=aura-dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat"
+        src="https://streak-stats.demolab.com?user=leofukuyama&theme=modern-lilac&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat" 
     />
     <img 
       alt="GitHub Stats" 
       height="170" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofukuyama&theme=aura_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofukuyama&theme=modern-lilac&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
+    <img 
+      alt="GitHub Stats" 
+      height="170" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=leofukuyama&theme=modern-lilac" 
     />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=leofukuyama&theme=aura-dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leofukuyama&theme=modern-lilac)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
