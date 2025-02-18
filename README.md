@@ -104,19 +104,17 @@ Me chamo Leonardo, sou estudante em **Engenharia de Software** na UniSenaiPR câ
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="170" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=leofukuyama&show_icons=true&theme=aura_dark&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
+<div style="display: flex; gap: 10px;">
+    <img 
+        alt="GitHub Streak" 
+        height="170" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=filipeds&theme=algolia&hide_border=true" 
+    />
+    <img 
       alt="GitHub Stats" 
       height="170" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofukuyama&theme=aura_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+    />
+</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=leofukuyama&theme=aura-dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
