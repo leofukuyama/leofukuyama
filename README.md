@@ -121,6 +121,6 @@ Me chamo Leonardo, sou estudante em **Engenharia de Software** na UniSenaiPR câ
     <img 
       alt="GitHub Streak" 
       height="250" 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=leofukuyama&theme=noctis-minimus&custom_title=Gráfico de Contribuição de Leonardo Fukuyama" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=leofukuyama&theme=noctis-minimus&custom_title=Gráfico de Contribuição de Leonardo Fukuyama"
     />
 </div>
