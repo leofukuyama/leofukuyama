@@ -108,7 +108,7 @@ Me chamo Leonardo, sou estudante em **Engenharia de Software** na UniSenaiPR câ
     <img 
         alt="GitHub Streak" 
         height="170" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=leofukuyama&theme=tokyo-night&hide_border=true&mode=weekly" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=leofukuyama&theme=tokyo-night&hide_border=true" 
     />
     <img 
       alt="GitHub Stats" 
@@ -117,4 +117,4 @@ Me chamo Leonardo, sou estudante em **Engenharia de Software** na UniSenaiPR câ
     />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leofukuyama&theme=toky-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leofukuyama&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
