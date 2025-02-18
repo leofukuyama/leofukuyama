@@ -125,4 +125,4 @@ Me chamo Leonardo, sou estudante em **Engenharia de Software** na UniSenaiPR câ
     />
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leofukuyama&theme=noctis-minimus&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-chi-six.vercel.app?user=leofukuyama&theme=noctis-minimus&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
