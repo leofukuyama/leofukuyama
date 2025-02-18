@@ -108,7 +108,7 @@ Me chamo Leonardo, sou estudante em **Engenharia de Software** na UniSenaiPR câ
     <img 
         alt="GitHub Streak" 
         height="170" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=leofukuyama&theme=tokyo-night&hide_border=true" 
+        src="https://github-readme-streak-stats.herokuapp.com?user=leofukuyama&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly"
     />
     <img 
       alt="GitHub Stats" 
