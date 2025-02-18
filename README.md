@@ -108,12 +108,12 @@ Me chamo Leonardo, sou estudante em **Engenharia de Software** na UniSenaiPR câ
     <img 
         alt="GitHub Streak" 
         height="170" 
-        src="https://github-readme-stats.vercel.app/api?username=leofukuyama&theme=noctis_minimus&show_icons=true&count_private=true&rank_icon=github"
+        src="https://github-readme-stats.vercel.app/api?username=leofukuyama&theme=noctis_minimus&show_icons=true&count_private=true&rank_icon=github&locale=pt-br"
     />
     <img 
       alt="GitHub Stats" 
       height="170" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofukuyama&theme=noctis_minimus&layout=compact&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofukuyama&theme=noctis_minimus&layout=compact&custom_title=Tecnologias&langs_count=9" 
     />
 </div>
 
@@ -121,6 +121,6 @@ Me chamo Leonardo, sou estudante em **Engenharia de Software** na UniSenaiPR câ
     <img 
       alt="GitHub Streak" 
       height="250" 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=leofukuyama&theme=noctis-minimus" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=leofukuyama&theme=noctis-minimus&custom_title=Gráfico de Contribuição de Leonardo Fukuyama" 
     />
 </div>
