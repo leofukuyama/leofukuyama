@@ -108,13 +108,13 @@ Me chamo Leonardo, sou estudante em **Engenharia de Software** na UniSenaiPR câ
     <img 
         alt="GitHub Streak" 
         height="170" 
-        src="https://streak-stats.demolab.com?user=leofukuyama&theme=modern-lilac&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=leofukuyama&theme=tokyo-night&hide_border=true&mode=weekly" 
     />
     <img 
       alt="GitHub Stats" 
       height="170" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofukuyama&theme=modern-lilac&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofukuyama&theme=tokyonight&layout=compact&langs_count=9" 
     />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leofukuyama&theme=modern-lilac)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leofukuyama&theme=toky-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
