@@ -124,3 +124,5 @@ Me chamo Leonardo, sou estudante em **Engenharia de Software** na UniSenaiPR câ
       src="https://github-readme-activity-graph.vercel.app/graph?username=leofukuyama&theme=noctis-minimus&custom_title=Gráfico%20de%20Contribuição%20de%20Leonardo%20Fukuyama"
     />
 </div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leofukuyama&theme=noctis-minimus&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
