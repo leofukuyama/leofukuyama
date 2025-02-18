@@ -108,7 +108,7 @@ Me chamo Leonardo, sou estudante em **Engenharia de Software** na UniSenaiPR câ
     <img 
         alt="GitHub Streak" 
         height="170" 
-        src="https://github-readme-stats.vercel.app/api?username=leofukuyama&show_icons=true&theme=noctis_minimus&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=leofukuyama&theme=noctis_minimus&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" 
     />
     <img 
       alt="GitHub Stats" 
