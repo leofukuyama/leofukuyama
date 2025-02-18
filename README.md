@@ -115,6 +115,9 @@ Me chamo Leonardo, sou estudante em **Engenharia de Software** na UniSenaiPR câ
       height="170" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofukuyama&theme=noctis_minimus&layout=compact&langs_count=9" 
     />
+    <img 
+      alt="GitHub Streak" 
+      height="170" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=leofukuyama&theme=noctis-minimus" 
+    />
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leofukuyama&theme=noctis-minimus)](https://github.com/ashutosh00710/github-readme-activity-graph)
