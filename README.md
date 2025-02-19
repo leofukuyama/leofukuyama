@@ -124,5 +124,8 @@ Me chamo Leonardo, sou estudante em **Engenharia de Software** na UniSenaiPR câ
       src="https://github-readme-activity-graph.vercel.app/graph?username=leofukuyama&theme=noctis-minimus&custom_title=Gráfico%20de%20Contribuição%20de%20Leonardo%20Fukuyama"
     />
 </div>
-
-![snake gif](https://github.com/leofukuyama/leofukuyama/blob/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leofukuyama/leofukuyama/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leofukuyama/leofukuyama/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/leofukuyama/leofukuyama/output/github-snake.svg" />
+</picture>
