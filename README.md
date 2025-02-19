@@ -129,6 +129,9 @@ Me chamo Leonardo, sou estudante em **Engenharia de Software** na UniSenaiPR câ
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leofukuyama/leofukuyama/output/github-snake-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leofukuyama/leofukuyama/output/github-snake.svg" />
-      <img alt="github-snake" height="260" src="https://raw.githubusercontent.com/leofukuyama/leofukuyama/output/github-snake.svg" />
+      <img 
+          alt="github-snake" 
+          height="180" 
+          src="https://raw.githubusercontent.com/leofukuyama/leofukuyama/output/github-snake.svg" />
     </picture>
 </div>
