@@ -120,15 +120,15 @@ Me chamo Leonardo, sou estudante em **Engenharia de Software** na UniSenaiPR câ
 <div style="display: flex; justify-content: center; margin-top: 10px;">
     <img 
       alt="GitHub Activity Graph" 
-      height="300"
+      height="260"
       src="https://github-readme-activity-graph.vercel.app/graph?username=leofukuyama&theme=noctis-minimus&custom_title=Gráfico%20de%20Contribuição%20de%20Leonardo%20Fukuyama"
     />
 </div>
 
-<div style="display: flex; justify-content: center; margin-top: 10px;">
+<div style="display: flex; justify-content: center;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leofukuyama/leofukuyama/output/github-snake-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leofukuyama/leofukuyama/output/github-snake.svg" />
-      <img alt="github-snake" height="300" src="https://raw.githubusercontent.com/leofukuyama/leofukuyama/output/github-snake.svg" />
+      <img alt="github-snake" height="260" src="https://raw.githubusercontent.com/leofukuyama/leofukuyama/output/github-snake.svg" />
     </picture>
 </div>
