@@ -140,7 +140,7 @@ Me chamo Leonardo, sou estudante em **Engenharia de Software** na UniSenaiPR câ
     <img 
       alt="GitHub Stats" 
       height="170"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofukuyama&theme=noctis_minimus&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofukuyama&theme=noctis_minimus&layout=compact&custom_title=Tecnologias&langs_count=6" 
     />
 </div>
 
