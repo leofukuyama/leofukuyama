@@ -2,7 +2,7 @@
 
 **`Aspirante a Desenvolvedor FullStack e CiberSegurança`**
 
-Me chamo Leonardo, sou estudante em **Engenharia de Software** na UniSenaiPR câmpus Londrina e meu objetio é aprender e crescer no campo de **Desenvolvimento FullStack** e **CiberSegurança**. 
+Me chamo Leonardo, sou estudante de **Engenharia de Software** na UniSenaiPR câmpus Londrina e meu objetivo é aprender e crescer no campo de **Desenvolvimento FullStack** e **CiberSegurança**. 
 
 <p align="left">
     <a href="https://www.linkedin.com/in/leofukuyama/">
